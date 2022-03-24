@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemo", "MefDemo\MefDemo.csproj", "{B1892B56-DE79-41F9-BCC0-8893FCE97B75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MefDemo.Dependencies", "MefDemo.Dependencies\MefDemo.Dependencies.csproj", "{C6792848-878E-44E1-8838-96CDA3791487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1892B56-DE79-41F9-BCC0-8893FCE97B75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1892B56-DE79-41F9-BCC0-8893FCE97B75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1892B56-DE79-41F9-BCC0-8893FCE97B75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1892B56-DE79-41F9-BCC0-8893FCE97B75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6792848-878E-44E1-8838-96CDA3791487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6792848-878E-44E1-8838-96CDA3791487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6792848-878E-44E1-8838-96CDA3791487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6792848-878E-44E1-8838-96CDA3791487}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
