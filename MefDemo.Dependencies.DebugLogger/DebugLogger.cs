@@ -1,6 +1,7 @@
 using System.ComponentModel.Composition;
+using MefDemo.Abstractions;
 
-namespace MefDemo.Dependencies;
+namespace MefDemo.Dependencies.DebugLogger;
 
 [Export(typeof(ILogger))]
 public class DebugLogger : ILogger

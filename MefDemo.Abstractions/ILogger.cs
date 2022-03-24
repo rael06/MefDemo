@@ -1,4 +1,4 @@
-﻿namespace MefDemo.Dependencies;
+﻿namespace MefDemo.Abstractions;
 
 public interface ILogger
 {
